@@ -11,7 +11,7 @@ NOTE: This repository uses a simplified [GTRACK](https://dev.ti.com/tirex/explor
 
 ## About
 
-This is the repository for the paper _"Don’t Pry Into My Personal Space: Exploiting mmWave Sensors to Provide Privacy for Areas With Glass Walls"_ (Link will be provided soon).
+This is the repository for the paper _"Don’t Pry Into My Personal Space: Exploiting mmWave Sensors to Provide Privacy for Areas With Glass Walls"_ (Link [here](https://dl.acm.org/doi/abs/10.3217/9vs0-nt86)).
 
 <p align="center">
   <img src="demo.gif" alt="animated" />
